@@ -16,8 +16,3 @@ public class Jokes {
 
 }
 
-class Element{
-    public String id;
-    public String joke;
-    public List<String> categories;
-}
